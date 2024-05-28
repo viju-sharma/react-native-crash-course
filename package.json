@@ -1,5 +1,6 @@
 {
-  "name": "react-native-crash-course",
+  "name": "aora",
+  "slug":"aura",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
